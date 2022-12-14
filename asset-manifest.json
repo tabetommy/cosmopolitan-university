@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cosmopolitan-university/static/css/main.073c9b0a.css",
+    "main.js": "/cosmopolitan-university/static/js/main.ca6b8225.js",
+    "static/js/787.cd51d157.chunk.js": "/cosmopolitan-university/static/js/787.cd51d157.chunk.js",
+    "static/media/logo.svg": "/cosmopolitan-university/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cosmopolitan-university/index.html",
+    "main.073c9b0a.css.map": "/cosmopolitan-university/static/css/main.073c9b0a.css.map",
+    "main.ca6b8225.js.map": "/cosmopolitan-university/static/js/main.ca6b8225.js.map",
+    "787.cd51d157.chunk.js.map": "/cosmopolitan-university/static/js/787.cd51d157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca6b8225.js"
+  ]
+}
