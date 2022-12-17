@@ -10,10 +10,15 @@ const Navigation = () => {
     return( 
      <Row>
         <Col>
-        <Navbar bg="primary" variant="dark">
+        <Navbar collapseOnSelect expand='md' bg="primary" variant="dark">
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
-                <Nav className="me-auto nav">
+                <Nav className="mx-auto">
+                    <NavItem>
+                        <Link to='/' className="nav-link">
+                            Home
+                        </Link>
+                    </NavItem>
                     <NavItem>
                         <Link to='/students' className="nav-link">
                             Students
