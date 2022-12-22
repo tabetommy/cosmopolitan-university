@@ -1,3 +1,36 @@
 .main{
-    background-color: aquamarine;
+    background-color: #fff;
+    position:sticky;
+    top:0;
+    width:100%;
+    z-index:100;
+    margin:0;
+    /* padding-bottom: 200px; */
+}
+.button-signup{
+    border-radius:24px;
+    padding: 5px 8px;
+    margin-right: 10px;
+    background-color: #0275d8;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    font-size: 20px;
+}
+
+.button-signin{
+    border-radius:24px;
+    padding: 5px;
+    border: #0275d8 1px solid;
+    padding: 5px 8px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.button-signup:hover, .button-signup:focus{
+    opacity: 0.8;
+}
+
+.button-signin:hover, .button-signin:focus{
+    background-color: #0275d8;
 }

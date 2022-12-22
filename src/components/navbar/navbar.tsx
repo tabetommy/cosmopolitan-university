@@ -1,20 +1,23 @@
 import React from "react";
 import {Link} from 'react-router-dom';
-// import Row from 'react-bootstrap/Row';
-// import Col from 'react-bootstrap/Col';
-// import Nav from 'react-bootstrap/Nav';
-import  {Navbar,Nav,NavItem,Row,Col,NavDropdown} from 'react-bootstrap';
+import './navbar.css';
+import  {
+    Navbar,
+    Nav,
+    NavItem,
+    Col,
+    NavDropdown} from 'react-bootstrap';
 
 
 const Navigation = () => {
     return( 
-     <Row>
-        <Col>
+    //  <Row>
+        <Col className="mt-4 px-0">
         <Navbar collapseOnSelect expand='md' bg="primary" variant="dark">
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mx-auto">
-                    <NavItem>
+                    <NavItem className="nav-item">
                         <Link to='/' className="nav-link">
                             Home
                         </Link>
@@ -48,7 +51,7 @@ const Navigation = () => {
             </Navbar.Collapse>
         </Navbar>
         </Col>
-     </Row>
+    //  </Row>
     );
 }
 

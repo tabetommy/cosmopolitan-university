@@ -8,12 +8,12 @@ import Students from '../students/students';
 
 const Main = () => {
     return (
-        <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/students" element={<Students />}/>
-            <Route path="/programs" element={<Programs />}/>
-            <Route path="/contact" element={<Contact />}/>
-        </Routes>
+            <Routes>
+                <Route path="/" element={<Home />}/>
+                <Route path="/students" element={<Students />}/>
+                <Route path="/programs" element={<Programs />}/>
+                <Route path="/contact" element={<Contact />}/>
+            </Routes>
     )
     
 }
