@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cosmopolitan-university/static/css/main.115412e7.css",
-    "main.js": "/cosmopolitan-university/static/js/main.f72d7533.js",
+    "main.js": "/cosmopolitan-university/static/js/main.aeb44281.js",
     "static/js/787.cd51d157.chunk.js": "/cosmopolitan-university/static/js/787.cd51d157.chunk.js",
     "static/media/student_1.jpg": "/cosmopolitan-university/static/media/student_1.036b9f610d8536e0c627.jpg",
     "static/media/student_2.jpg": "/cosmopolitan-university/static/media/student_2.6712cab3be1fe3d5d1bf.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/cosmopolitan-university/static/media/logo.bdedb03cc87627882d1b6a261a6878ce.svg",
     "index.html": "/cosmopolitan-university/index.html",
     "main.115412e7.css.map": "/cosmopolitan-university/static/css/main.115412e7.css.map",
-    "main.f72d7533.js.map": "/cosmopolitan-university/static/js/main.f72d7533.js.map",
+    "main.aeb44281.js.map": "/cosmopolitan-university/static/js/main.aeb44281.js.map",
     "787.cd51d157.chunk.js.map": "/cosmopolitan-university/static/js/787.cd51d157.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.115412e7.css",
-    "static/js/main.f72d7533.js"
+    "static/js/main.aeb44281.js"
   ]
 }
