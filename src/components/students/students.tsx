@@ -1,7 +1,10 @@
 import React from "react";
+import CommonComponent from '../common-component/common-component';
 
 const Students = () => {
-    return <p className="pt-5">This is the students page</p>;
+    return(
+        <CommonComponent />
+        )
 }
 
 export default Students
