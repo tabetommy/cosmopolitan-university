@@ -27,6 +27,25 @@
     width: 50%;
 }
 
+.student-card{
+    width:47%;
+    border-radius: 0px;
+}
+.student-card-b{
+    width:47%;
+    border-radius: 0px;
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+.student-text{
+    text-align: center;
+    margin: 5rem;
+}
+.student-cards{
+    display: flex;
+    justify-content: center;
+}
+
 @media screen and (max-width: 768px) {
     .demo-con{
       display:block; 
